@@ -1,0 +1,54 @@
+# Log files
+*.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage and instrumentation
+coverage/
+.nyc_output/
+lib-cov/
+
+# Dependency folders
+node_modules/
+bower_components/
+jspm_packages/
+
+# Build output
+build/Release/
+
+# TypeScript typings
+typings/
+
+# Caches and temporary files
+.npm/
+.eslintcache/
+.grunt/
+.lock-wscript
+.yarn-integrity
+.node_repl_history
+
+# Environment configuration
+.env
+
+# Package managers lock files
+package-lock.json
+yarn.lock
+
+# OS generated files
+.DS_Store
+
+# IDE specific files
+.vscode/
+
+# Various artifacts
+*.tgz
+*.xslx # Note: This seems to be a typo for '.xlsx', which is an Excel file extension.
+
+# Next.js build output
+.next/
