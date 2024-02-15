@@ -1,6 +1,10 @@
 # Progressive Web Application: Text Editor
 A cutting-edge text editor that runs directly in the web browser, designed to function both online and offline thanks to the implementation of progressive web application (PWA) standards. This project showcases a high level of understanding and application of several web technologies and is built upon the concepts learned through a comprehensive development course.
 
+short demo via localhost- [shortWalkThru.webm](https://github.com/HackDehZack/TextEditor/assets/140559436/02977ced-ce39-4530-b236-6bf1fdf68ad7)
+
+Link to deployed app on render-
+
 ## Features
 PWA compliant, enabling offline use and installability
 Data persistence using IndexedDB with idb package for robust browser-side storage
