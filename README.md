@@ -3,7 +3,7 @@ A cutting-edge text editor that runs directly in the web browser, designed to fu
 
 short demo via localhost- [shortWalkThru.webm](https://github.com/HackDehZack/TextEditor/assets/140559436/02977ced-ce39-4530-b236-6bf1fdf68ad7)
 
-Link to deployed app on render-
+Link to deployed app on render-  [render deployment](https://texteditorpwazackdehhack.onrender.com/)
 
 ## Features
 PWA compliant, enabling offline use and installability
@@ -89,6 +89,8 @@ Deploy your application and verify its functionality on Render.
 ## Support
 For support, refer to the repository's issues section or consult the various online communities and resources for PWA development.
 
-License
+## License
 This project is open-sourced under the MIT license. Please see the LICENSE file for more details.
 
+## Questions?
+Reach out to me at zackseriousemail@gmail.com or on my GitHub profile with any questions, or if you personally need help deploying with render. 
