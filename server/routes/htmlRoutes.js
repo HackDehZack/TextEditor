@@ -1,11 +1,6 @@
 const path = require('path');
-// ================================================================================
-// ROUTING
-// =============================================================================
+
 module.exports = (app) =>
-{
   app.get('/', (req, res) =>
-  {
-    res.sendFile('./index.html');
-  });
-};
+    res.sendFile(path.join(__dirname, '../client/dist/index.html'))
+  );

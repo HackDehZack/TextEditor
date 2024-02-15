@@ -1,1 +1,15 @@
-node_modules
+# Dependencies
+node_modules/    # Ignores the node_modules directory where npm packages are installed
+dist/            # Ignores the dist directory, commonly used for compiled or built files
+
+# Local env files
+/*.env           # Ignores files in the root directory with the .env extension, typically used for environment variables
+
+# Logs
+npm-debug.log    # Ignores npm debug log files
+
+# OS files
+.DS_Store        # Ignores .DS_Store files created by macOS for storing directory attributes
+
+# Nested node_modules
+/node_modules    # Ignores node_modules directory at the root (the leading slash indicates root directory specificity)
